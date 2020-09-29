@@ -10,6 +10,9 @@ Here's some of WIP:
 - 🔭 I’m currently working on an innovative project to defeat the fake news 📰
 - 🌱 I’m currently improving my knowledge on cloud services, in particular Azure ☁
 
+#### Certifications 📚
+- Currently studying to get [Azure Fundamentals](https://docs.microsoft.com/en-us/learn/certifications/exams/az-900)
+- [Programming in C#](https://www.youracclaim.com/badges/33552018-a3e4-472f-abac-99ef62b19911/linked_in_profile)
 
 <!--- 📫 How to reach me:
 https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fgrillo-andrea%2F
