@@ -16,8 +16,10 @@ Currently based in UK but open to relocation.
 
 
 ### Career 🐱‍👤
+- Platform Developer @Flowe
+    - June 2021 - Present
 - Aerodynamics Software Engineer @Red Bull Racing & Red Bull Technology
-    - Nov 2018 - present
+    - Nov 2018 - June 2021
 - Mobile Developer @Weblink Srl
     - Jul 2017 - Nov 2018
 - Web Developer @Dev4Side Software
