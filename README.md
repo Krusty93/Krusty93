@@ -33,7 +33,8 @@ Currently based in UK but open to relocation.
 
 ### Certifications 📚
 - ![Microsoft](https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white)
-    - [Azure Fundamentals](https://docs.microsoft.com/en-us/learn/certifications/exams/az-900)
+    - [Azure Data Fundamentals](https://www.credly.com/badges/483d26c2-77ed-4ed7-bc6f-4107927d1e95)
+    - [Azure Fundamentals](https://www.credly.com/badges/6596c04f-54d3-492b-b003-be29d8573bda)
     - [Programming in C#](https://www.youracclaim.com/badges/33552018-a3e4-472f-abac-99ef62b19911/linked_in_profile)
     
 <br/>
