@@ -12,24 +12,18 @@
 I always try to use my past work experience and my knowledge to bring new ideas to my team. I believe in continuously updating my knowledge on the latest technologies trying them out in personal projects. I love to study programming and technologies and improve my skills.
 <br/>
 
-Currently based in UK but open to relocation.
-
+Currently based in Milan.
 
 ### Career 🐱‍👤
-- Platform Developer @Flowe
-    - June 2021 - Present
+- @Flowe - June 2021
+    - Site Reliability Engineer
+    - Platform Developer
 - Aerodynamics Software Engineer @Red Bull Racing & Red Bull Technology
     - Nov 2018 - June 2021
 - Mobile Developer @Weblink Srl
     - Jul 2017 - Nov 2018
 - Web Developer @Dev4Side Software
     - Apr 2015 - Jul 2017
-
-<br/>
-
-### Side projects in progress  👷‍♂️
-- 🔭 Working on an innovative project to defeat the spreading of the fake news 📰
-- 🌱 Improving my knowledge on cloud services, in particular Azure ☁
 
 <br/>
 
