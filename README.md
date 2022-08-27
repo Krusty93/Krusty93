@@ -29,6 +29,9 @@ Currently based in Milan.
 
 ## Recent Activity
 
+### My InfoQ.com blog posts
+[![Foo](https://user-images.githubusercontent.com/7879858/187039353-6a9930f9-8c0f-408e-8217-e61013b951fe.png)](https://www.infoq.com/articles/cloud-native-development-azure/)
+
 ### My Dev.to blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Implementing health checks PT.2 - Azure Application Insights configuration](https://dev.to/krusty93/implementing-health-checks-pt2-azure-application-insights-configuration-51b9)
