@@ -34,11 +34,11 @@ Currently based in Milan.
 
 ### My Dev.to blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Sending an alert in Microsoft Teams from Azure DevOps Pipelines](https://dev.to/krusty93/sending-an-alert-in-microsoft-teams-from-azure-devops-pipelines-419k)
 - [Implementing health checks PT.2 - Azure Application Insights configuration](https://dev.to/krusty93/implementing-health-checks-pt2-azure-application-insights-configuration-51b9)
 - [Implementing health checks PT.1 - Asp.Net Core 6 configuration](https://dev.to/krusty93/implementing-health-checks-pt1-aspnet-core-6-configuration-6gp)
 - [Public Service Announcement: I&#39;ve joined the SRE team](https://dev.to/krusty93/public-service-announcement-ive-joined-the-sre-team-2h89)
 - [Enforcing a consistent code style and quality in your team-wide .NET projects](https://dev.to/krusty93/enforcing-a-consistent-code-quality-and-style-in-your-team-wide-net-projects-4m62)
-- [Hide sensitive data in Azure Application Insights logs of our ASP.NET &lpar;Core&rpar; APIs](https://dev.to/krusty93/hide-sensitive-data-in-azure-application-insights-logs-of-our-aspnet-core-apis-4ji7)
 <!-- BLOG-POST-LIST:END -->
 
 ### StackOverflow activity
