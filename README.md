@@ -47,8 +47,8 @@ Currently based in Milan.
 - [Answer by Krusty for Azure bicep and parameter](https://stackoverflow.com/questions/75523596/azure-bicep-and-parameter/75527253#75527253)
 - [Answer by Krusty for Creating Azure Functions Targeting .NET 7](https://stackoverflow.com/questions/74382421/creating-azure-functions-targeting-net-7/74382459#74382459)
 - [ASP.NET Core 6.0 DataProtection is delaying the entire service startup](https://stackoverflow.com/questions/74376214/asp-net-core-6-0-dataprotection-is-delaying-the-entire-service-startup)
-- [Entity Framework Core throws InvalidOperationException because [NotMapped] attribute is not declared over a readonly property](https://stackoverflow.com/questions/72600794/entity-framework-core-throws-invalidoperationexception-because-notmapped-attri)
 - [&#39;Format code&#39; and &#39;sort using&#39; on save in Visual Studio 2022](https://stackoverflow.com/questions/70460978/format-code-and-sort-using-on-save-in-visual-studio-2022)
+- [gRPC Asp Net Core 3.1 APIs don&#39;t work when running on Kubernetes](https://stackoverflow.com/questions/67523539/grpc-asp-net-core-3-1-apis-dont-work-when-running-on-kubernetes)
 <!-- STACKOVERFLOW:END -->
 
 ### GitHub Stats
