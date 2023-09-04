@@ -12,7 +12,9 @@ Currently based in Milan.
 
 ## Career 🐱‍👤
 
-* @Flowe - June 2021
+* Senior Cloud Engineer @PagoPA
+  * September 2023
+* @Flowe - Jun 2021 - Jul 2023
   * Site Reliability Engineer
   * Platform Developer
 * Aerodynamics Software Engineer @Red Bull Racing & Red Bull Technology
@@ -30,7 +32,10 @@ Currently based in Milan.
 ## Recent Activity
 
 ### My InfoQ.com blog posts
-[![Foo](https://user-images.githubusercontent.com/7879858/187039353-6a9930f9-8c0f-408e-8217-e61013b951fe.png)](https://www.infoq.com/articles/cloud-native-development-azure/)
+
+[![image](https://github.com/Krusty93/Krusty93/assets/7879858/1722a2f9-aa11-429a-8249-14cf0f69aeb3)](https://www.infoq.com/articles/critical-journeys-azure/)
+
+[![Foo](https://github.com/Krusty93/Krusty93/assets/7879858/48e1b5e8-358d-4da9-a1da-da2e11345c7e)](https://www.infoq.com/articles/cloud-native-development-azure/)
 
 ### My Dev.to blog posts
 <!-- BLOG-POST-LIST:START -->
@@ -63,3 +68,6 @@ Currently based in Milan.
   * [Azure Data Fundamentals](https://www.credly.com/badges/483d26c2-77ed-4ed7-bc6f-4107927d1e95)
   * [Azure Fundamentals](https://www.credly.com/badges/6596c04f-54d3-492b-b003-be29d8573bda)
   * [Programming in C#](https://www.youracclaim.com/badges/33552018-a3e4-472f-abac-99ef62b19911)
+
+* FreeCodeCamp
+  * [Foundational C# with Microsoft](https://www.freecodecamp.org/certification/krusty93/foundational-c-sharp-with-microsoft)
