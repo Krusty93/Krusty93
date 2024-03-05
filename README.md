@@ -63,11 +63,14 @@ Currently based in Milan.
 
 ## Certifications 📚
 
-* ![Microsoft](https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white)
+![Microsoft](https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white)
   * [Azure Developer Associate](https://www.credly.com/badges/28babd36-1e8a-49e8-a4ba-7d80dff9ecbd)
   * [Azure Data Fundamentals](https://www.credly.com/badges/483d26c2-77ed-4ed7-bc6f-4107927d1e95)
   * [Azure Fundamentals](https://www.credly.com/badges/6596c04f-54d3-492b-b003-be29d8573bda)
   * [Programming in C#](https://www.youracclaim.com/badges/33552018-a3e4-472f-abac-99ef62b19911)
 
-* FreeCodeCamp
+![HashiCorp](https://img.shields.io/badge/HashiCorp-666666?style=for-the-badge&logo=hashicorp&logoColor=purple&color=black)
+  * [Terraform Associate](https://www.credly.com/badges/e13b5a72-0925-48e6-8ba0-9e7bec08b6ba/)
+
+![FreeCodeCamp](https://img.shields.io/badge/FreeCodeCamp-666666?style=for-the-badge&logo=freecodecamp&logoColor=blue&color=white)
   * [Foundational C# with Microsoft](https://www.freecodecamp.org/certification/krusty93/foundational-c-sharp-with-microsoft)
