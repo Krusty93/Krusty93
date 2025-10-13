@@ -33,7 +33,7 @@ Currently based in Milan, Italy.
 ### StackOverflow activity
 
 <!-- STACKOVERFLOW:START -->
-- [Azure Function Apps hosted on Container Apps](https://stackoverflow.com/questions/79788002/azure-function-apps-hosted-on-container-apps)
+- [HTTP Autoscaler in Azure Function Apps hosted on Container Apps](https://stackoverflow.com/questions/79788002/http-autoscaler-in-azure-function-apps-hosted-on-container-apps)
 - [Azure APIM cache-lookup policy error fallback](https://stackoverflow.com/questions/77838928/azure-apim-cache-lookup-policy-error-fallback)
 - [Answer by Krusty for Azure bicep and parameter](https://stackoverflow.com/questions/75523596/azure-bicep-and-parameter/75527253#75527253)
 - [Answer by Krusty for Creating Azure Functions Targeting .NET 7](https://stackoverflow.com/questions/74382421/creating-azure-functions-targeting-net-7/74382459#74382459)
