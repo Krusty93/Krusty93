@@ -2,7 +2,7 @@ name: Latest activity
 
 on:
   schedule:
-    - cron: '0 3 * * *'
+    - cron: '0 3 * * 1'
   workflow_dispatch:
 
 jobs:
@@ -12,7 +12,8 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v6
+        name: Checkout
 
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
