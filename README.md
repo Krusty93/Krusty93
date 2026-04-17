@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AndreaGrillo93)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/grillo-andrea/)
-![Stack Overflow Reputation](https://img.shields.io/stackexchange/stackoverflow/r/3415073?color=orange&label=reputation&logo=stackoverflow)
+[![Stack Overflow Reputation](https://img.shields.io/stackexchange/stackoverflow/r/3415073?color=orange&label=reputation&logo=stackoverflow)](https://stackoverflow.com/users/3415073)
 
 My decade-long journey in software engineering, spanning from backend development to cloud-native platforms, has provided me with a deep understanding of the entire software lifecycle. This experience has shaped my ability to navigate complex technical challenges and architect resilient and scalable systems.
 
